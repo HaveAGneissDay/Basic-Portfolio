@@ -1,0 +1,41 @@
+h1{
+ background-color: #4aaaa5;
+ padding-top: 20px;
+ padding-right:20px;
+ padding-left: 20px;
+ padding-bottom: 20px;
+ text-align: center;
+ float: left;
+
+}
+
+h2 {
+
+}
+
+body {
+	width:650px;
+	 background-image: url(images/dust_scratches/dust_scratches.png)
+
+}
+
+aside {
+ float: right;
+}
+
+footer {
+	background-color: #666666;
+	text-align: center;
+	position: fixed;
+	bottom: 0;
+	margin-top: 10px;
+	margin-color: #4aaaa5;
+	width: 960px;
+}
+
+header {
+	float: right;
+	width: 100px;
+	position: relative;
+	background-color: grey;
+}
